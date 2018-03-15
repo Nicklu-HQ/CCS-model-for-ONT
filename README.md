@@ -11,7 +11,7 @@ Description:
  
 Example:
 
-
+![Example](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/example_01.JPG)
 
 Pipeline:
 
@@ -20,7 +20,8 @@ Pipeline:
 
 
 
-  
+__________________________________________________________________________________________________________________________________________
+
 Amplifcation technology and principle:
 
 ![amplification_01](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/amplification_01.JPG)
@@ -28,6 +29,7 @@ ________________________________________________________________________________
 ![amplification_02](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/amplification_02.JPG)
 
 
+__________________________________________________________________________________________________________________________________________
 Raw Data:
 
     some raw sequence data from the MinION of Oxford Nanopore and consensus data could been found in the file XXXXX
