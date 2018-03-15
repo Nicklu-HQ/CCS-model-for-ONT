@@ -15,8 +15,6 @@ Example:
 
 Pipeline:
 
-![CCS-model-for-ONT/loadpicture/pipline.JPG](https://github.com/Nicklu-HQ/CCS-model-for-ONT/loadpicture/pipline.JPG)
-
 
   
 Amplifcation principle:
