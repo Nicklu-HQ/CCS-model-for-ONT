@@ -15,14 +15,12 @@ Example:
 
 Pipeline:
 
-<<<<<<< HEAD
-![CCS-model-for-ONT/loadpicture/pipline.JPG](https://github.com/Nicklu-HQ/CCS-model-for-ONT/loadpicture/pipline.JPG)
-<<<<<<< HEAD
+
+![CCS-model-for-ONT/loadpicture/pipline.JPG](https://github.com/Nicklu-HQ/raw/master/CCS-model-for-ONT/loadpicture/pipline.JPG)
+
 =======
 
->>>>>>> 156eee8fd163d8a195ed55440c9fb905261ea757
-=======
->>>>>>> 48570822347f459ef9006f0bfeb396aba5f3ded9
+
 
   
 Amplifcation principle:
