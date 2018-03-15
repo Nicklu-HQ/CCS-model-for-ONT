@@ -41,7 +41,8 @@ Raw Data:
   
 
 Liscence:
-   This technology is owned by Haoqinbio company from Shanghai China. You are welcome to use it for basical research but not for commercial activity.
-
+    
+    This technology is owned by Haoqinbio company from Shanghai China. You are welcome to use it for basical research but not for commercial activity.
+    if you have any question about this,please email luxh@haoqinbio.com
 
 
