@@ -39,3 +39,9 @@ Raw Data:
 
     some raw sequence data from the MinION of Oxford Nanopore and consensus data could been found in the file XXXXX
   
+
+Liscence:
+   This technology is owned by Haoqinbio company from Shanghai China. You are welcome to use it for basical research but not for commercial activity.
+
+
+
