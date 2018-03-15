@@ -24,6 +24,7 @@ Pipeline:
 Amplifcation technology and principle:
 
 ![amplification_01](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/amplification_01.JPG)
+_____________________________________________________________________________________________________________________________________________
 ![amplification_02](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/amplification_02.JPG)
 
 
