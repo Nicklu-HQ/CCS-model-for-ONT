@@ -16,7 +16,7 @@ Example:
 Pipeline:
 
 
-![CCS-model-for-ONT/loadpicture/pipline.JPG](https://github.com/Nicklu-HQ/raw/master/CCS-model-for-ONT/loadpicture/pipline.JPG)
+![CCS-model-for-ONT/loadpicture/pipline.JPG](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/pipline.JPG)
 
 =======
 
