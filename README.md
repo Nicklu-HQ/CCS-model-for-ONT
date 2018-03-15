@@ -16,12 +16,12 @@ Example:
 Pipeline:
 
 
-![pipeline](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/pipline_01.JPG)
+![pipeline](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/pipeline_01.JPG)
 
 
 
   
-Amplifcation principle:
+Amplifcation technology and principle:
 
 ![amplification_01](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/amplification_01.JPG)
 ![amplification_02](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/amplification_02.JPG)
