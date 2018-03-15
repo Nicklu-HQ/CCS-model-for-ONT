@@ -15,6 +15,7 @@ Example:
 
 Pipeline:
 
+![image](https://github.com/Nicklu-HQ/CCS-model-for-ONT/loadpicture/pipline.JPG)
 
 
   
