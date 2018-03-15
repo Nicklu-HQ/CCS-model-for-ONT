@@ -13,6 +13,8 @@ Example:
 
 ![Example](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/example_01.JPG)
 
+__________________________________________________________________________________________________________________________________________
+
 Pipeline:
 
 
@@ -23,6 +25,11 @@ Pipeline:
 __________________________________________________________________________________________________________________________________________
 
 Amplifcation technology and principle:
+1. simple: just add special adaptor(......TATATATATATATATATATA),without additional primer
+2. fast  : about 30 mins
+3. easy  : Bst polymerase, isothermal amplification
+4. final sequence with tadem repeated copy is just ready for MinION
+_____________________________________________________________________________________________________________________________________________
 
 ![amplification_01](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/amplification_01.JPG)
 _____________________________________________________________________________________________________________________________________________
