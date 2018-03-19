@@ -8,7 +8,9 @@ Description:
     It's including two step 
     1: Amplification       : Here we descibed a novel technology: 'self-amplification' which is simple and quick.
     2: Consensus Algorithm : Blastn for mapping and Pbdagcon for consensus
+    
     Inspired by:
+    
     1. Isothermal amplification method for next-generation sequencing (Life Technologies)
     2. A flexible and efficient template format for circular consensus sequencing and SNP detection (PacBio)
     3. INC-Seq: accurate single molecule reads using nanopore sequencing(https://github.com/CSB5/INC-Seq)    
