@@ -11,7 +11,7 @@ Description:
  
 Example:
 
-![Example](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/example_01.JPG)
+     ![Example](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/example_01.JPG)
 
 __________________________________________________________________________________________________________________________________________
 
