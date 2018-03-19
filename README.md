@@ -3,15 +3,20 @@ a novel pipeline for getting high accuracy sequence from one single molecular re
 __________________________________________________________________________________________________________________________________________
 Description:
 
-    similar to INC-seq (https://github.com/CSB5/INC-Seq) and CCS(the Circular Consensus Sequence) model of PacBio
+    Similar to the CCS(the Circular Consensus Sequence) model of PacBio
 
     It's including two step 
     1: Amplification       : Here we descibed a novel technology: 'self-amplification' which is simple and quick.
     2: Consensus Algorithm : Blastn for mapping and Pbdagcon for consensus
- 
+    
+    Inspired by:
+    1. Isothermal amplification method for next-generation sequencing (Life Technologies)
+    2. A flexible and efficient template format for circular consensus sequencing and SNP detection (PacBio)
+    3. INC-Seq: accurate single molecule reads using nanopore sequencing(https://github.com/CSB5/INC-Seq)
+     
 Example:
 
-     ![Example](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/example_01.JPG)
+![Example](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/example_01.JPG)
 
 __________________________________________________________________________________________________________________________________________
 
