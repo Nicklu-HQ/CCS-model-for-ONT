@@ -12,8 +12,9 @@ Description:
     Inspired by:
     1. Isothermal amplification method for next-generation sequencing (Life Technologies)
     2. A flexible and efficient template format for circular consensus sequencing and SNP detection (PacBio)
-    3. INC-Seq: accurate single molecule reads using nanopore sequencing(https://github.com/CSB5/INC-Seq)
-     
+    3. INC-Seq: accurate single molecule reads using nanopore sequencing(https://github.com/CSB5/INC-Seq)    
+
+
 Example:
 
 ![Example](https://github.com/Nicklu-HQ/CCS-model-for-ONT/raw/master/loadpicture/example_01.JPG)
