@@ -1,0 +1,73 @@
+BLASTN 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: User specified sequence set (Input: ref_fasta.fasta).
+           1 sequences; 100 total letters
+
+
+
+Query= consensus <unknown description>
+
+Length=96
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ref <unknown description>                                           174     3e-049
+
+
+> ref <unknown description>
+Length=100
+
+ Score = 174 bits (192),  Expect = 3e-049
+ Identities = 96/96 (100%), Gaps = 0/96 (0%)
+ Strand=Plus/Plus
+
+Query  1   GCTTGCAGGGTCCGAGGTAACAGAGCCAACCTATTTACGTGCTGCAAGCTTGCAGCACGT  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3   GCTTGCAGGGTCCGAGGTAACAGAGCCAACCTATTTACGTGCTGCAAGCTTGCAGCACGT  62
+
+Query  61  AAATAGGTTGGCTCTGTTACCTCGGACCCTGCAAGC  96
+           ||||||||||||||||||||||||||||||||||||
+Sbjct  63  AAATAGGTTGGCTCTGTTACCTCGGACCCTGCAAGC  98
+
+
+ Score = 174 bits (192),  Expect = 3e-049
+ Identities = 96/96 (100%), Gaps = 0/96 (0%)
+ Strand=Plus/Minus
+
+Query  1   GCTTGCAGGGTCCGAGGTAACAGAGCCAACCTATTTACGTGCTGCAAGCTTGCAGCACGT  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  98  GCTTGCAGGGTCCGAGGTAACAGAGCCAACCTATTTACGTGCTGCAAGCTTGCAGCACGT  39
+
+Query  61  AAATAGGTTGGCTCTGTTACCTCGGACCCTGCAAGC  96
+           ||||||||||||||||||||||||||||||||||||
+Sbjct  38  AAATAGGTTGGCTCTGTTACCTCGGACCCTGCAAGC  3
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 8096
+
+
+  Database: User specified sequence set (Input: ref_fasta.fasta).
+    Posted date:  Unknown
+  Number of letters in database: 100
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2
